@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { gsap } from "gsap";
 
 export default function Home() {
   return (
